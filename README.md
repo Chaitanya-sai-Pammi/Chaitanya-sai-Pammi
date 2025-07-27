@@ -4,6 +4,6 @@
 - 🛠 **Tech Stack**: Python, Tableau, R, MySQL  
 - 🔬 **Current Project**: Researching delays in cardiac arrest scenarios  
 - 🤝 **Collaboration Interests**: Business Analysis & Data Analysis projects  
-- 🔗 **How to Reach Me**: [LinkedIn](https://www.linkedin.com/in/chaitanya-pammi-999290342/) (Replace `#` with your actual LinkedIn URL)  
+- 🔗 **How to Reach Me**: [LinkedIn](https://www.linkedin.com/in/chaitanya-pammi-999290342/)
 
 Looking forward to collaborating and sharing insights! 🚀  
